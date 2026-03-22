@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Statistics, Texas A&M University, College Station, TX 2028 (expected)
-* M.S. in Statistics, Hanyang University, Seoul, South Korea 2023
-* B.A. in Economics, B.S. in Mathematics, Hanyang University, Seoul, South Korea 2021
+* Ph.D. in Statistics, Texas A&M University, College Station, TX. 2028 (expected)
+* M.S. in Statistics, Hanyang University, Seoul, South Korea. 2023
+* B.A. in Economics, B.S. in Mathematics, Hanyang University, Seoul, South Korea. 2021
   - Valedictorian (1st/111 in the [College of Economics & Finance](https://econ.hanyang.ac.kr/en/index.php))
 
 Publications

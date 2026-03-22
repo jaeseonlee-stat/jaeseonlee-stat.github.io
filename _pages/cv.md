@@ -11,10 +11,17 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Statistics, Texas A&M University, College Station, TX 2028 (expected)
+* M.S. in Statistics, Hanyang University, Seoul, South Korea 2023
+* B.A. in Economics, B.S. in Mathematics, Hanyang University, Seoul, South Korea 2021
+  - Valedictorian (1st/111 in the [College of Economics & Finance](https://econ.hanyang.ac.kr/en/index.php))
 
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
 Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
@@ -40,12 +47,6 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Talks
 ======

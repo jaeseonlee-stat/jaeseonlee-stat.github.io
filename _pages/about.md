@@ -15,12 +15,3 @@ My research interests mainly include
 - nonstationary process,
 - and fourier analysis on spatio-temporal data.
 
-## Visitors
-
-<div style="text-align: center; margin-top: 1em;">
-  <script
-    type="text/javascript"
-    id="mapmyvisitors"
-    src="//mapmyvisitors.com/map.js?d=ys8b54O7rRvhOU-29MgEV54yWr3INupI_lFum03HoO8&cl=ffffff&w=a">
-  </script>
-</div>

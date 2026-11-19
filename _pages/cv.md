@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-Please see my full CV here: [PDF](/files/CV-4.pdf).
+Please see my full CV here: [PDF](/files/CV_Nov26.pdf).
